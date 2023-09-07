@@ -31,15 +31,15 @@ Note: HMR does not work for Content / Background scripts, you must restart brows
 
 5. Enable your extension with the toggle button
    
-![Alt text](image-3.png)
+![image-3](https://github.com/dev-cameron/extension-template/assets/119974281/8c44bf77-4e28-4eb6-8550-95e608820de8)
 
 6. (Optional) pin your extension for easily toggling the main interface (`popup.html` in the dev bundle)
    
-![Alt text](image-1.png)
+![image-1](https://github.com/dev-cameron/extension-template/assets/119974281/05f29fe0-a35f-4ee1-892c-f8ba2f0c8334)
 
 8. Enjoy! Your extension should popup with **Hello, world!** when you toggle the icon
    
-![Alt text](image-4.png)
+![image-4](https://github.com/dev-cameron/extension-template/assets/119974281/25d95079-e010-47c9-aaee-6747ac200be7)
 
 ## Developer notes:
 
