@@ -1,0 +1,18 @@
+{
+    "name": "Sample_Extension",
+    "description" : "This is a sample extension using React",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "popup.html",
+      "default_title" : "Extension_sample",
+      "default_icon" : "logo.svg"
+    },
+    "permissions" : [
+      "tabs",  
+      "scripting",
+      "activeTab"
+    ]
+  }
+  
+  
