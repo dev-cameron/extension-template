@@ -28,12 +28,15 @@ Note: HMR does not work for Content / Background scripts, you must restart brows
 3. Click `Load unpacked` and navigate to the `/dev` bundle that was created, upload that folder
 
 4. Enable your extension with the toggle button
+   
 ![Alt text](image-3.png)
 
-5. (Optional) pin your extension for easily toggling the main interface (`popup.html` in the dev bundle)
+6. (Optional) pin your extension for easily toggling the main interface (`popup.html` in the dev bundle)
+   
 ![Alt text](image-1.png)
 
-6. Enjoy! Your extension should popup with **Hello, world!** when you toggle the icon
+8. Enjoy! Your extension should popup with **Hello, world!** when you toggle the icon
+   
 ![Alt text](image-4.png)
 
 ## Developer notes:
