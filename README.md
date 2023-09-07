@@ -25,7 +25,7 @@ Note: HMR does not work for Content / Background scripts, you must restart brows
 
 2. Enable `Developer mode` on the top-right of page
 
-![image](https://github.com/dev-cameron/extension-template/assets/119974281/82751873-53c3-43f3-ab71-d9167af5aae9)
+![image](https://github.com/dev-cameron/extension-template/assets/119974281/f31a4616-0870-42a4-88fb-ebbd2bd2d71e)
 
 4. Click `Load unpacked` and navigate to the `/dev` bundle that was created, upload that folder
 
